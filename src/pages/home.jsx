@@ -17,22 +17,29 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          <h1 className="mb-10 mt-4 px-4 text-4xl font-medium sm:text-5xl">
-  <span className="font-bold">Hello, I'm Cem Ölmez. <br/> </span>
-  
-  <span className="text-xl sm:text-2xl font-semibold">
-    I'm a FrontEnd Web developer
+          <h1 className="mb-8 mt-4 px-4 text-3xl sm:text-5xl font-semibold">
+  <span className="font-bold">Hello, I'm Cem Ölmez.</span>
+  <br />
+
+  <span className="text-xl sm:text-6xl font-semibold">
+    A Frontend Web Developer
   </span>
   <br />
 
-  <span className="text-lg sm:text-xl font-medium">
-    Based in Istanbul, Turkey
+  <span className="text-lg sm:text-4xl font-medium text-gray-700">
+    Working from Istanbul, Turkey
   </span>
   <br />
-  
-  <span className="text-base sm:text-lg leading-relaxed">
-    Experienced in React, JavaScript, and the latest frontend technologies, I focus on creating efficient, high-quality code that brings ideas to life.
+
+ 
+  <span className="text-base sm:text-lg md:text-xl  text-gray-600 mt-4 block">
+    Turning ideas into engaging, interactive web experiences with modern frontend development.
+    <br />
+    Core stack : <span className="font-medium">HTML, CSS, JavaScript, Node.js, and MongoDB</span> 
+    <br />
+    Familiar with:<span className="font-medium"> Next.js and TypeScript.</span> 
   </span>
+  
 </h1>
 
         </motion.div>
@@ -86,10 +93,10 @@ const Home = () => {
         {/* Contact Button */}
         <a
           href="#contact"
-          className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
+          className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition  "
         >
-          Contact me here{" "}
-          <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
+          Contact me {" "}
+         
         </a>
 
         {/* Download CV Button */}

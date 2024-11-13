@@ -31,11 +31,11 @@ export default function Contact() {
 
 
       <p className="text-gray-700 -mt-6 ">
-        Please contact me directly at{" "}
+        Complete the form below or contact me directly at{" "}
         <a className="underline" href="mailto:c.olmez123@gmail.com">
           c.olmez123@gmail.com
         </a>{" "}
-        or through this form.
+       
       </p>
 
       <form

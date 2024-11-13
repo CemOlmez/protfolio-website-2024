@@ -18,7 +18,7 @@ const About = () => {
       <p className="mb-3">
         I am a self-taught developer in{" "}
         <span className="font-medium"> Frontend Development</span>, I decided to pursue my
-        passion for programming by enrolled in a coding bootcamp and learned{" "}
+        passion for programming by independently studying and working on projects, gaining expertise in{" "}
         <span className="font-medium">Frontend web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect as well as the idea of creating something new. I <span className="underline">love</span> the
@@ -34,8 +34,8 @@ const About = () => {
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my bird. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
+        video games, watching movies, or taking the time to learn{" "}
+        <span className="font-medium">learn new things</span>. I am currently
         learning about{" "}
         <span className="font-medium">Game and Mobile App development</span>. I'm also
         learning photography and video editing.
