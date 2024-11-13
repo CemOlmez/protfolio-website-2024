@@ -30,7 +30,7 @@ export const projectsData = [
       "Restaurant website created with React and Bootstrap, featuring a responsive layout and reservation system.",
     tags: ["React", "Bootstrap", "Theme Wagon"],
     imageUrl: restorn,
-    url: "https://example.com/restoran-clone",
+    url: "https://restoran-clone-five.vercel.app",
   },
   {
     title: "EasyBank - Landing Page",
@@ -38,7 +38,7 @@ export const projectsData = [
       "A modern, responsive landing page for a fictional bank, using HTML, CSS, and JavaScript.",
     tags: ["HTML", "CSS", "JavaScript"],
     imageUrl: easybank,
-    url: "https://example.com/easybank",
+    url: "https://cemolmez.github.io/EasyBank-Landing-Page/",
   },
   {
     title: "Weiss Engineer - Landing Page",
@@ -46,7 +46,7 @@ export const projectsData = [
       "Landing page for Weiss Construction, designed from Figma mockups using HTML and CSS.",
     tags: ["HTML", "CSS", "Figma"],
     imageUrl: weiss,
-    url: "https://example.com/weiss-engineer",
+    url: "https://cemolmez.github.io/Weiss-Engineer",
   },
 ];
 
