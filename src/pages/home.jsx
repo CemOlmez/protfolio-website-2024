@@ -22,7 +22,7 @@ const Home = () => {
   <br />
 
   <span className="text-xl sm:text-6xl font-semibold">
-    A Frontend Web Developer
+    Frontend Web Developer
   </span>
   <br />
 
