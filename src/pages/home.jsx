@@ -22,18 +22,18 @@ const Home = () => {
   <br />
 
   <span className="text-xl sm:text-6xl font-semibold">
-    Frontend Web Developer
+  Web Developer 
   </span>
   <br />
 
   <span className="text-lg sm:text-4xl font-medium text-gray-700">
-    Working from Istanbul, Turkey
+  Based in Istanbul, Turkey
   </span>
   <br />
 
  
   <span className="text-base sm:text-lg md:text-xl  text-gray-600 mt-4 block">
-    Turning ideas into engaging, interactive web experiences with modern frontend development.
+  Passionate about turning ideas into dynamic, user-friendly web experiences with responsive, scalable solutions.
     <br />
     Core stack : <span className="font-medium">HTML, CSS, JavaScript, Node.js, and MongoDB</span> 
     <br />
@@ -101,7 +101,7 @@ const Home = () => {
 
         {/* Download CV Button */}
         <a
-          href="/cemolmezCV.pdf"
+          href="/CemOlmezCV.pdf"
           download
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer border border-black dark:bg-white/10"
         >

@@ -16,30 +16,12 @@ const About = () => {
       <SectionHeading>About Me</SectionHeading>
 
       <p className="mb-3">
-        I am a self-taught developer in{" "}
-        <span className="font-medium"> Frontend Development</span>, I decided to pursue my
-        passion for programming by independently studying and working on projects, gaining expertise in{" "}
-        <span className="font-medium">Frontend web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect as well as the idea of creating something new. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          HTML, CSS, Javascript, React, Node.js, and MongoDB
-        </span>
-        . I am also familiar with Nextjs and Typescript. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a developer.
-      </p>
+  I am a self-taught <span className="font-medium">Web Developer</span> who decided to pursue my passion for programming by studying independently and working on projects to build expertise in <span className="font-medium">web development</span>. I thrive on problem-solving and enjoy the process of creating something new, especially the satisfaction of finding the solution to a challenge. My core stack includes <span className="font-medium">HTML, CSS, JavaScript, React, Node.js, and MongoDB</span>, and I am also familiar with <span className="font-medium">Next.js</span> and <span className="font-medium">TypeScript</span>. I am always eager to learn new technologies and am currently seeking a <span className="font-medium">full-time developer position</span>.
+</p>
 
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, or taking the time to learn{" "}
-        <span className="font-medium">learn new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">Game and Mobile App development</span>. I'm also
-        learning photography and video editing.
-      </p>
+<p className="mb-3">
+  When I’m not coding, I enjoy playing video games, watching movies, and exploring new interests. I’m currently diving into Game and Mobile App development, as well as learning photography and video editing.
+</p>
     </motion.section>
     </section>
   )
